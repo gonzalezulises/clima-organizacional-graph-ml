@@ -1,6 +1,8 @@
 # Graph ML para Clima Organizacional en Banca
 ## Panamá Puente Digital 2026
 
+> Caso ilustrativo basado en un caso real. El banco («Banco Istmeño») y los datos son ficticios.
+
 ### Estructura
 ```
 ├── index.html          # Presentación Reveal.js (slides)
