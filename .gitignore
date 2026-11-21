@@ -3,3 +3,4 @@
 screenshots/
 .claude/
 --db-path
+.playwright-mcp/
